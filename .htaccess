@@ -1,0 +1,3 @@
+<FilesMatch "^(assetlinks.json|apple-app-site-association)$">
+    ForceType application/json
+</FilesMatch>
