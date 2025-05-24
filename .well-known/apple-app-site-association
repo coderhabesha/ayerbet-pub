@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "APPLE_TEAM_ID.com.jethrocyber.ayerbet",
-        "paths": ["/your-deeplink-path/*"]
+        "paths": ["/login-callback"]
       }
     ]
   }
